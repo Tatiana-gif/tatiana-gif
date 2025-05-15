@@ -1,9 +1,9 @@
 <h1 align="center">Hey, i'm Charif Tatiana!🤗👩‍💻</h1>
-<h5 align="center" style="color:#4CAF50;">
+<h4 align="center" style="color:#4CAF50;">
 I'm an analyst and software developer. I love web development, collaborating, sharing knowledge, and playing the guitar.
-</h5>
+</h4>
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXB2OHI3bXdyMXBic2hndG95b21ybXpkcTEzd3RuYm9waDBrczIyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LtiTOVzhzvGuXaea2m/giphy.gif" width="300"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXB2OHI3bXdyMXBic2hndG95b21ybXpkcTEzd3RuYm9waDBrczIyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LtiTOVzhzvGuXaea2m/giphy.gif" width="200"/>
 </p>
 
 <h3 align="left">📚Languages and Tools:</h3>
