@@ -1,8 +1,13 @@
-<h1 align="center">Hola Mi nombre es Charif Tatiana</h1>
+<h1 align="center">Hello, Mi nombre es Charif Tatiana!🤗👩‍💻</h1>
 <h3 align="center" style="color:#4CAF50;">
-Apasionada del desarrollo web, enfocada en construir aplicaciones eficientes y escalables con tecnologías modernas y mejores prácticas. Me encanta colaborar y compartir conocimientos.
+Me encanta el desarrollo web, enfocada en construir aplicaciones eficientes y escalables con tecnologías modernas y mejores prácticas. Amo colaborar y compartir conocimientos.
 </h3>
-
+<h3 align="center">Hobbies</h3>
+<p align="center">
+  🎸 Tocar guitarra <br>
+  🎮 Jugar videojuegos <br>
+  🎧 Escuchar música
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tatiana-giraldo-1a9a1328b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tatiana-giraldo-1a9a1328b/" height="30" width="40" /></a>
