@@ -2,6 +2,9 @@
 <h3 align="center" style="color:#4CAF50;">
 Me encanta el desarrollo web, enfocada en construir aplicaciones eficientes y escalables con tecnologías modernas y mejores prácticas. Amo colaborar y compartir conocimientos.
 </h3>
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXB2OHI3bXdyMXBic2hndG95b21ybXpkcTEzd3RuYm9waDBrczIyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LtiTOVzhzvGuXaea2m/giphy.gif" width="400"/>
+</p>
 <h3 align="center">Hobbies</h3>
 <p align="center">
   🎸 Tocar guitarra <br>
