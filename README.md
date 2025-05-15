@@ -1,5 +1,7 @@
 <h1 align="center">Hola Mi nombre es Charif Tatiana</h1>
-<h3 align="center">Amante del desarrollo web</h3>
+<h3 align="center" style="color:#4CAF50;">
+Apasionada del desarrollo web, enfocada en construir aplicaciones eficientes y escalables con tecnologías modernas y mejores prácticas. Me encanta colaborar y compartir conocimientos.
+</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
